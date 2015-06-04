@@ -16,4 +16,5 @@
   -->
 
 <Context>
+  <sessionCookieName>NOT_JESSION_ID</sessionCookieName>
 </Context>
